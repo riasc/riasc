@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Languages & Technologies</h2>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+
+<div align="center">
 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
-          
-
-
-<i class="devicon-python-plain"></i>
-
-<h2 align="center">Stats</h2>
-
+         
 ![](https://raw.githubusercontent.com/riasc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/riasc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-          
+ 
+</div>
 
           
           
