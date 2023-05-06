@@ -25,5 +25,12 @@ Here are some ideas to get you started:
 
 
 <i class="devicon-python-plain"></i>
+
+<h2 align="center">Stats</h2>
+
+![](https://raw.githubusercontent.com/riasc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/riasc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+          
+
           
           
