@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there - I'm Rich 👋
 
+I'm currently a research associate at the [Yang Lab](https://github.com/ylab-hi) at Northwestern University
 
-- I developed ...
-          - [RNAnue](https://github.com/riasc/RNAnue.git) --> [10.1093/nar/gkab340](https://doi.org/10.1093/nar/gkab340)
-          - [ScanNeo2](https://github.com/ylab-hi/ScanNeo2.git) --> [10.1093/bioinformatics/btad659](https://doi.org/10.1093/bioinformatics/btad659)
 
 
 <!--
@@ -20,17 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<div align="center">
-
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
-
-</div>
-
-[![Rich's GitHub stats](https://github-readme-stats.vercel.app/api?username=riasc)](https://github.com/anuraghazra/github-readme-stats)
 
           
           
