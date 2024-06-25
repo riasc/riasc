@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- I developed ...
+          - [RNAnue](https://github.com/riasc/RNAnue.git) --> [10.1093/nar/gkab340](https://doi.org/10.1093/nar/gkab340)
+          - [ScanNeo2](https://github.com/ylab-hi/ScanNeo2.git) --> [10.1093/bioinformatics/btad659](https://doi.org/10.1093/bioinformatics/btad659)
+
+
 <!--
 **riasc/riasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
