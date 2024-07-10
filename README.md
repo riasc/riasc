@@ -1,4 +1,4 @@
-# Richard A. Schäfer
+## Richard A. Schäfer
 
 Research Associate at the [Yang Lab](https://github.com/ylab-hi)
 Department of Urology, Northwestern University in Chicago
